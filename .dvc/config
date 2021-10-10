@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storage_ivan
+['remote "remote_storage_ivan"']
+    url = ../../VCD_Storage
